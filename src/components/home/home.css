@@ -1,0 +1,4 @@
+.images img {
+  width: 25% !important;
+  object-fit: cover;
+}
